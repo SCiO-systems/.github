@@ -2,8 +2,6 @@
 
 <img src="https://scio.systems/wp-content/uploads/2023/01/SCiO_LOGO_gray_text.png" alt="SCiO" width="160"/>
 
-# SCiO
-
 **AI-driven data analytics platforms, scientific data infrastructures & geospatial decision-support systems**
 
 [Website](https://scio.systems) · [LinkedIn](https://www.linkedin.com/company/scio-systems/) · [X](https://x.com/SCiO_systems) · [Facebook](https://www.facebook.com/scio.systems/)
