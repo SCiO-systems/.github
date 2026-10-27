@@ -27,8 +27,8 @@ We work across the full data lifecycle, from collection and cleaning to analysis
 
 - **[GARDIAN](https://gardian.bigdata.cgiar.org)**: global discovery platform for agricultural research, indexing **more than 1 million publications and datasets** from CGIAR and partners.
 - **CiGI**: AI knowledge-discovery layer over GARDIAN, with semantic search, retrieval-augmented generation and natural-language Q&A over scientific literature.
-- **LUP4LDN**: Land Use Planning for Land Degradation Neutrality, with Earth-observation-based scenario modelling.
-- **Climate Security Observatory** and **EDACaP** (Ethiopian agro-climate advisory platform).
+- **[LUP4LDN](https://www.landusetool.org/)**: Land Use Planning for Land Degradation Neutrality, with Earth-observation-based scenario modelling.
+- **[Climate Security Observatory](https://cso.cgiar.org/)** and **[EDACaP](https://edacap.ethioagroclimate.net/#/Home)** (Ethiopian agro-climate advisory platform).
 
 ## 🤝 Who we work with
 
